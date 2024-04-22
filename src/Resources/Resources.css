@@ -1,9 +1,45 @@
 .resources-section {
-  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  background: #151617;
   margin-top: 0;
   padding: 95px 0 100px 0;
   background-position: top-center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+.card-box {
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+.cards {
+  padding: 25px;
+  background-color: rgba(182, 182, 182, 0.932);
+  min-height: 350px;
+}
+
+.card-title {
+  font-size: 25px;
+}
+
+.resources-section h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  color: rgba(211, 209, 196, 0.932);
+}
+
+.resources-section a {
+  color: rgba(211, 209, 196, 0.932);
+}
+
+.category {
+  background-color: #151617;
+}
+
+.cards img {
+  object-fit: cover;
+  aspect-ratio: 16/9;
 }

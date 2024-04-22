@@ -8,7 +8,7 @@ const Hero = () => {
       <video src={Stars} autoPlay loop muted id="video"></video>
       <div className="content">
         <h2>Front-End Resources</h2>
-        <p>• All sources in one place •</p>
+        <p>• Eveything in one place •</p>
       </div>
     </section>
   );
