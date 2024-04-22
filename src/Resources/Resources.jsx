@@ -11,7 +11,7 @@ const Resources = () => {
         <h2 className="header">Resources</h2>
         <Container className="card-box">
           <Row className="p-5">
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/019/original/hhhhng.png?1713797282" />
                 <Card.Body>
@@ -46,7 +46,7 @@ const Resources = () => {
                 </ListGroup>
               </Card>
             </Col>
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/014/original/Beige_minimalist_photo_collage.png?1713795671" />
                 <Card.Body>
@@ -82,7 +82,7 @@ const Resources = () => {
                 </ListGroup>
               </Card>
             </Col>
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/016/original/image.png?1713796819" />
                 <Card.Body>
@@ -119,7 +119,7 @@ const Resources = () => {
             </Col>
           </Row>
           <Row className="p-5">
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/020/original/icons.jpg?1713797356" />
                 <Card.Body>
@@ -150,7 +150,7 @@ const Resources = () => {
                 </ListGroup>
               </Card>
             </Col>
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/021/original/4457.jpg?1713797913" />
                 <Card.Body>
@@ -182,7 +182,7 @@ const Resources = () => {
                 </ListGroup>
               </Card>
             </Col>
-            <Col xs={12} md={4} xl={4}>
+            <Col xs={12} md={4} xl={4} className="p-3">
               <Card style={{ width: "20rem" }} className="cards img-fluid">
                 <Card.Img variant="top" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/023/original/Weather_application.png?1713798492" />
                 <Card.Body>
