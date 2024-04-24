@@ -114,6 +114,11 @@ const Resources = () => {
                       Fotor
                     </a>
                   </ListGroup.Item>
+                  <ListGroup.Item className="category">
+                    <a href="https://create.pixelcut.ai/" target="blank">
+                      Pixelcut
+                    </a>
+                  </ListGroup.Item>
                 </ListGroup>
               </Card>
             </Col>
@@ -145,6 +150,11 @@ const Resources = () => {
                   <ListGroup.Item className="category">
                     <a href="https://icon-icons.com/" target="blank">
                       Icon-Icons
+                    </a>
+                  </ListGroup.Item>
+                  <ListGroup.Item className="category">
+                    <a href="https://fontawesome.com/" target="blank">
+                      FontAwesome
                     </a>
                   </ListGroup.Item>
                 </ListGroup>
